@@ -1,7 +1,8 @@
 AMOCRM.widgets.init().then(() => {
   const BLOCKED_CHATS = [
-    "Название вашего чата 1",
-    "Название вашего чата 2",
+    "Архипка работа подработка",
+    "Архипка из рук в руки",
+    "Средства размещения",
   ];
 
   AMOCRM.widgets.Messenger.on("new_message", (msg) => {
