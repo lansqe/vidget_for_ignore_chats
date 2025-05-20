@@ -3,6 +3,7 @@ AMOCRM.widgets.init().then(() => {
     "Архипка работа подработка",
     "Архипка из рук в руки",
     "Средства размещения",
+    "Руслан Писарев",
   ];
 
   AMOCRM.widgets.Messenger.on("new_message", (msg) => {
